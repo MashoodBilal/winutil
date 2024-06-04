@@ -63,6 +63,14 @@
 		"link": "https://www.anaconda.com/products/distribution",
 		"winget": "Anaconda.Anaconda3"
 	},
+	"WPFInstallpgadmin4": {
+		"category": "Development",
+		"choco": "pgadmin4",
+		"content": "pgAdmin 4",
+		"description": "pgAdmin is the Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.",
+		"link": "https://www.pgadmin.org/",
+		"winget": "PostgreSQL.pgAdmin"
+	},
 	"WPFInstallangryipscanner": {
 		"category": "Pro Tools",
 		"choco": "angryip",
