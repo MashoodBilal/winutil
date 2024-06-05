@@ -2783,6 +2783,30 @@
 		"link": "https://github.com/7gxycn08/ForceAutoHDR",
 		"winget": "ForceAutoHDR.7gxycn08"
 	},
+	"WPFInstallntlite": {
+		"category": "Development",
+		"choco": "ntlite-free",
+		"content": "NTlite",
+		"description": "NTLite is the cutting edge Windows configuration tool made by an independent developer.",
+		"link": "https://www.ntlite.com/",
+		"winget": "Nlitesoft.NTLite"
+	},
+	"WPFInstallpostgresql": {
+        	"category": "Development",
+        	"choco": "postgresql",
+        	"content": "PostgreSQL",
+        	"description": "PostgreSQL is an object-relational database management system.",
+        	"link": "https://www.postgresql.org/",
+        	"winget": "PostgreSQL.PostgreSQL"
+    	},
+	"WPFInstallgrammarly": {
+		"category": "Document",
+		"choco": "grammarly-for-windows",
+		"content": "Grammarly for Windows",
+		"description": "Grammarly is a cloud-based typing assistant. It reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes in English texts.",
+		"link": "https://app.grammarly.com/",
+		"winget": "Grammarly.Grammarly"
+	},
 	"WPFInstallnditools": {
 		"category": "Multimedia Tools",
 		"choco": "na",
@@ -2791,4 +2815,5 @@
 		"link": "https://ndi.video/",
 		"winget": "NDI.NDITools"
 	}
+	
 }
